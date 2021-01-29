@@ -1,5 +1,5 @@
-##Boooks managment system with Laravel 7
-**how run this project!**    #bold
+## Boooks managment system with Laravel 7
+**how run this project!**    # bold
 
 ```bash
 $ git clone https://github.com/alireez/books-management-system
