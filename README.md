@@ -2,7 +2,7 @@
 how run this project!   
 
 ```bash
-$ git clone https://github.com/alireez/books-management-system
+$ git clone https://github.com/alireza-mehri/books-management-system
 $ cd books-management-system
 $ cp .env.example .env
 $ composer install
